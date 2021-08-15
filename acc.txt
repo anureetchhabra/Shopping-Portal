@@ -1,0 +1,14 @@
+@
+.-> Titan:Rose Gold
+     Price: 7000/-
+.-> Chumbak
+    Colour:Silver Price: 2500/-
+.-> Calvin Klein
+    Colour:Silver Price: 7000/-
+
+@
+.-> Caprese 
+    Colour:Beige Price: 3000/-
+.-> Wildcraft
+    Colour:Gray Price: 2500/-
+@

@@ -1,0 +1,25 @@
+
+@ 
+Moisturizer:
+.->Body Shop
+ Price: 500/- Quantity:200ml
+.->Nivea 
+Price: 250/- Quantity:200ml
+.->Lakme 
+Price: 350/- Quantity:200ml
+@ 
+Serum:
+.->Clinique 
+Price: 1500/- Quantity:50ml
+.->Dot & Key 
+Price: 1000/- Quantity:75ml
+.->Lakme Price:700/- Quantity:50ml
+@ 
+FaceMask:
+.->Nykaa FaceMask
+Price: 500/- Quantity:100gm
+.->L'Oréal FaceMask
+Price: 700/- Quantity:100gm
+.->Lakme FaceMask
+ Price: 500/- Quantity:75gm
+@       

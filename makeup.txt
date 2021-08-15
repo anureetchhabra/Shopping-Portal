@@ -1,0 +1,15 @@
+@
+.-> Nail File: 
+    Price: 200/-
+.-> Nail Polish Remove:
+    Price: 250/- Quantity: 100ml 
+@
+.-> Face Primer:
+    Company:Nykaa Price: 450/- Quantity:50gm
+.-> Face Primer:
+    Company:Colorbar Price: 700/- Quantity:50gm
+.-> Foundation:
+    Company:Bobby Brown Price: 3000/- Quantity:50gm
+.-> Foundation:
+    Company:M.A.C Price: 2000/- Quantity:50gm
+@
